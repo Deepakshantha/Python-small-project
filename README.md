@@ -16,3 +16,8 @@ Delete records based on student ID
 
 Menu-driven console interface for ease of use
 
+## Tech Stack
+Python 
+
+MySQL
+
